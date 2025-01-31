@@ -1,2 +1,8 @@
 # 5V-UPS-with-turn-off-delay
-5V UPS board with a single 3.7V Li battery cell.
+
+This UPS board provides the load with some time to safely shut down and avoid data loss.
+
+When the input power is down, the output is sustained by a single-cell 3.7V battery and a voltage booster.
+The booster will be turned off after a delay to protect the battery from draining.
+
+
