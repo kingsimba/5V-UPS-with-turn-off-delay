@@ -1,5 +1,7 @@
 # 5V-UPS-with-turn-off-delay
 
+WARNING: A work in progress...
+
 This UPS board provides the load with some time to safely shut down and avoid data loss.
 
 When the input power is down, the output is sustained by a single-cell 3.7V battery and a voltage booster.
